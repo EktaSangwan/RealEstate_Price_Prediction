@@ -15,6 +15,8 @@
 12. B        :1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town
 13. LSTAT  :  % lower status of the population
 14. MEDV    : Median value of owner-occupied homes in $1000's
+
+
 (Originally, it had no missing value,but for the purpose of practising data processing, few values have been removed from csv file)
 
 
