@@ -1,6 +1,6 @@
-The dataset is "Boston Housing Data" originally taken from the StatLib Library maintained at Carnegie Mellon University.
+ The dataset is "Boston Housing Data" originally taken from the StatLib Library maintained at Carnegie Mellon University.
 
-Attributes in the 'csv' file:
+## Attributes in the 'csv' file:
 1. CRIM : per capita crime rate by town
 2. ZN   :    proportion of residential land zoned for lots over 25,000 sq.ft.
 3. INDUS  :   proportion of non-retail business acres per town
